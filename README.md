@@ -45,8 +45,8 @@ Follow these simple steps to get your development environment up and running:
 ### Step 1: Clone the Project
 
 ```bash
-git clone https://github.com/aemal/claude-code-boiler-plate
-cd claude-code-boiler-plate
+git clone https://github.com/aemal/claude-code-boilerplate
+cd claude-code-boilerplate
 ```
 
 ### Step 2: Prepare Your Environment
@@ -81,21 +81,16 @@ Click on **"Reopen in Container"** when prompted, or manually trigger it:
 1. Press `Cmd+Shift+P` (macOS) or `Ctrl+Shift+P` (Windows/Linux)
 2. Select **"Dev Containers: Open Folder in Container"**
 
-![Command palette Dev Containers option](images/command-palette-dev-containers.png)
-![Reopen in Container notification](images/reopen-in-container-notification.png)
-
 ### Step 5: Wait for the Magic! ✨
 
 The system will automatically:
+
 - Create a Docker container
 - Install Claude Code
 - Install Task Master AI
 - Set up the MCP server
 
 You should see the Docker container running in the Docker Desktop app.
-
-![Docker Desktop running container](images/docker-desktop-running-container.png)
-![Terminal setup completion](images/terminal-setup-completion.png)
 
 ---
 
